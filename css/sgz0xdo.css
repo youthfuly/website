@@ -1,0 +1,56 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * brother-1816:
+ *   - http://typekit.com/eulas/00000000000000003b9b32e1
+ *   - http://typekit.com/eulas/00000000000000003b9b32e5
+ * korolev-compressed:
+ *   - http://typekit.com/eulas/00000000000000003b9b1a26
+ * korolev-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9b1a2b
+ * myriad-pro:
+ *   - http://typekit.com/eulas/00000000000000000001709a
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-01-24 11:47:29 UTC"}*/
+
+@import url("pd5b9.css?s=1&amp;k=sgz0xdo&amp;ht=tk&amp;f=6851.27970.27954.35366.35370&amp;a=16100216&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"myriad-pro";
+src:url("https://use.typekit.net/af/cafa63/00000000000000000001709a/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("https://use.typekit.net/af/cafa63/00000000000000000001709a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("https://use.typekit.net/af/cafa63/00000000000000000001709a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"korolev-compressed";
+src:url("https://use.typekit.net/af/8c7e7e/00000000000000003b9b1a26/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("https://use.typekit.net/af/8c7e7e/00000000000000003b9b1a26/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("https://use.typekit.net/af/8c7e7e/00000000000000003b9b1a26/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"korolev-condensed";
+src:url("https://use.typekit.net/af/b27610/00000000000000003b9b1a2b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("https://use.typekit.net/af/b27610/00000000000000003b9b1a2b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("https://use.typekit.net/af/b27610/00000000000000003b9b1a2b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"brother-1816";
+src:url("https://use.typekit.net/af/69907d/00000000000000003b9b32e1/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("https://use.typekit.net/af/69907d/00000000000000003b9b32e1/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("https://use.typekit.net/af/69907d/00000000000000003b9b32e1/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"brother-1816";
+src:url("https://use.typekit.net/af/5d27c7/00000000000000003b9b32e5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("https://use.typekit.net/af/5d27c7/00000000000000003b9b32e5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("https://use.typekit.net/af/5d27c7/00000000000000003b9b32e5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+.tk-myriad-pro { font-family: "myriad-pro",sans-serif; }
+.tk-korolev-compressed { font-family: "korolev-compressed",sans-serif; }
+.tk-korolev-condensed { font-family: "korolev-condensed",sans-serif; }
+.tk-brother-1816 { font-family: "brother-1816",sans-serif; }
